@@ -20,7 +20,7 @@
 - Rock Climbing
 - [Chess](https://www.chess.com/member/bytera)
 
-## Goal
+## 2025 Goal
 - Obtain the following GitHub achievements
   - Security Bug Bounty Hunter
   - Security Advisory Credit
